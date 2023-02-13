@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\bin\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).exe
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\bin\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).deps.json
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\bin\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).runtimeconfig.json
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\bin\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).runtimeconfig.dev.json
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\bin\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).dll
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\bin\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).pdb
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\obj\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\obj\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\obj\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\obj\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).AssemblyInfo.cs
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\obj\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\obj\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).dll
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\obj\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).pdb
+C:\Users\PC\source\repos\Accessmodifiers(group,course,ICourse)\Accessmodifiers(group,course,ICourse)\obj\Debug\netcoreapp3.1\Accessmodifiers(group,course,ICourse).genruntimeconfig.cache
